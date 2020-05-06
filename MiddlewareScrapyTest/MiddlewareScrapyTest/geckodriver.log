@@ -1,0 +1,628 @@
+1526388589399	geckodriver	INFO	geckodriver 0.20.1
+1526388589423	geckodriver	INFO	Listening on 127.0.0.1:3251
+1526388592455	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.opNGF9SOz7DX"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526388594332	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526388597178	Marionette	INFO	Listening on port 3259
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526388597744	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11636, Chrome_ChildTh[Child 7288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chanUnable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526388714464	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526388717052	Marionette	INFO	Listening on port 3335
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526388717786	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Child 15604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15604, Chrome_ChildThre[Child 12044, Chrome_ChildThre*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 8832, Chrome_ChildThread] WARNING: pipe 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526388833985	geckodriver	INFO	geckodriver 0.20.1
+1526388834010	geckodriver	INFO	Listening on 127.0.0.1:3389
+1526388837041	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.X9Mly2HTiZKF"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526388838854	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526388841646	Marionette	INFO	Listening on port 3397
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526388842324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1866714802, line 1: unreachable code after return statement
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1866714802, line 1: unreachable code after return statement
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1866714802 line 1 > eval, line 1: unreachable code after return statement
+[Parent 5108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526389264265	geckodriver	INFO	geckodriver 0.20.1
+1526389264289	geckodriver	INFO	Listening on 127.0.0.1:4202
+1526389267322	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.iPpQEsIwNbNO"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526389269174	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526389271950	Marionette	INFO	Listening on port 4210
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526389272614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1638226240, line 1: unreachable code after return statement
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1638226240, line 1: unreachable code after return statement
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1638226240 line 1 > eval, line 1: unreachable code after return statement
+[Parent 15276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7440, Chrome_Child[Child 14940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14940, Chrome_ChildThread] WA[GPU 17120, Chrome_ChildThread] WARNING: pi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526389488151	geckodriver	INFO	geckodriver 0.20.1
+1526389488175	geckodriver	INFO	Listening on 127.0.0.1:4568
+1526389491205	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.cmsj0J0DYHbR"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526389493068	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526389495816	Marionette	INFO	Listening on port 4576
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526389496494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1609924219, line 1: unreachable code after return statement
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1609924219, line 1: unreachable code after return statement
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1609924219 line 1 > eval, line 1: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: content.text is undefined
+Full stack: fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: content.text is undefined
+  Stack:
+    fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+fetchStylesheetFromNetworkMonitor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:480:1
+StyleSheetActor<.fetchStylesheet<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:410:18
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:390:12
+getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:360:12
+getAuthoredCssText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:1249:12
+PageStyleActor<.getApplied<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:461:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+console.error: 
+  Protocol error (unknownError): content.text is undefined
+[Child 16180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16180, Chrome_ChildT[Child 15440, Chrome[Child 1204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1204, Chrome_Chi[GPU 10676, Chrome_ChildThread] WARNING: pipe 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526389724506	Marionette	INFO	Listening on port 4697
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526389725290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1800076440, line 1: unreachable code after return statement
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1800076440, line 1: unreachable code after return statement
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1800076440 line 1 > eval, line 1: unreachable code after return statement
+[Parent 15244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line[Child 444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 444, Chrome_ChildThread] W
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526389979158	geckodriver	INFO	geckodriver 0.20.1
+1526389979183	geckodriver	INFO	Listening on 127.0.0.1:4864
+1526389982210	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.jkByMBD6l1ep"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526389984124	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526389986770	Marionette	INFO	Listening on port 4872
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526389987492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=896556007, line 1: unreachable code after return statement
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=896556007, line 1: unreachable code after return statement
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=896556007 line 1 > eval, line 1: unreachable code after return statement
+[Parent 12072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15076, Chrome_ChildThread] WA[Parent 12072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6104, Chrome_[GPU 17984, Chrome_ChildThread] WARNING: pipe err
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526390076457	geckodriver	INFO	geckodriver 0.20.1
+1526390076514	geckodriver	INFO	Listening on 127.0.0.1:4978
+1526390079502	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.UkrQEjNUOf5J"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526390081396	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526390084014	Marionette	INFO	Listening on port 4987
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526390084790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=548250656, line 1: unreachable code after return statement
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=548250656, line 1: unreachable code after return statement
+JavaScript warning: https://cloudblogs.microsoft.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=548250656 line 1 > eval, line 1: unreachable code after return statement
+[Parent 1172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9648, Chrome_Chi[Child 16868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Parent 1172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15536, Chrome_ChildThread] W
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526390825013	geckodriver	INFO	geckodriver 0.20.1
+1526390825040	geckodriver	INFO	Listening on 127.0.0.1:6183
+1526390828066	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.qDVU5BbmluBf"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526390829902	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526390833022	Marionette	INFO	Listening on port 6191
+1526390833380	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1534Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526390961172	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526390963826	Marionette	INFO	Listening on port 6299
+1526390964212	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1616, Chrome_ChildThrea[Child 19520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19520, Chrome_ChildThr[Parent 20064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7500, Chrome_ChildThread] WARNING: pi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526391005750	geckodriver	INFO	geckodriver 0.20.1
+1526391005780	geckodriver	INFO	Listening on 127.0.0.1:6357
+1526391008796	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.ZcpG549Fq9qL"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526391010568	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526391013118	Marionette	INFO	Listening on port 6365
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526391014070	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+[Parent 1588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bu[Parent 1588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Handler fuUnable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526391254578	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526391257072	Marionette	INFO	Listening on port 6749
+1526391257450	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2916, Chrome_ChildThreaJavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+[Child 15292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15292, Chrome_ChildThread] WARNING: pi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 1588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526391928844	geckodriver	INFO	geckodriver 0.20.1
+1526391928868	geckodriver	INFO	Listening on 127.0.0.1:9251
+1526391931898	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.if7Y88R27LiO"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526391933718	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526391936260	Marionette	INFO	Listening on port 9259
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526391937176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+[Child 12224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12224, Chrome_Chil[Child 4652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4652, Chrome_ChildThread] [Parent 7424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15944, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526392203936	geckodriver	INFO	geckodriver 0.20.1
+1526392203961	geckodriver	INFO	Listening on 127.0.0.1:9785
+1526392206981	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.JtJOaxDr0dz9"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526392208792	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526392211632	Marionette	INFO	Listening on port 9793
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526392212272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+[Parent 15768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1526392385193	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.4trQ83cRtitf"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526392386990	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526392389468	Marionette	INFO	Listening on port 10335
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526392390476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+[Parent 7628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11196, Chrome_ChildThread] WARN[Child 9940, Chrome_ChildThread] WARNING: pipe [GPU 20036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+penvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526392727958	Marionette	INFO	Listening on port 10747
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526392728766	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9196, Chrome_Chi[Child 16840, Chrome_Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7296, Chrome_ChildThread] WARNIN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 411: Error: OS.File has been shut1526392785359	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.8bB6bljVGpkb"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526392787194	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526392789878	Marionette	INFO	Listening on port 10868
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526392790660	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9732, Chrome_ChildThread] WARNING: pipe error: 1
+###!!! [Parent][MessageChannel] Error: (msgtype=0x15008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 5364, Chrome_ChildThread] WARNING: p
+###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+ipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: chrome://browser/content/tab-content.js, line 316: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 700: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x15002B,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+[Child 17892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526395954478	geckodriver	INFO	geckodriver 0.20.1
+1526395954521	geckodriver	INFO	Listening on 127.0.0.1:11221
+1526395957556	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.qz9AAgjJBg0a"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526395970654	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526395980122	Marionette	INFO	Listening on port 11233
+1526395980248	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13628, Chrome_ChildThread] WARNIN[Child 1256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1256, Chrome_ChildThread] WARNING: pipe [Child 1068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1068, Chrome_ChildThread] WARNING: pipe err[GPU 17560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/c
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+icate errors will be ignored for this session
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+[Child 16064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/co1526396869716	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.vqBUYVC0txji"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526396870754	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526396872048	Marionette	INFO	Listening on port 12327
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526396872866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+[Parent 8916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12748, Chrome_ChildThread] WAR[Parent 8916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15736, Chrome_ChildThread] WARNING: pi[GPU 16684, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526397169541	geckodriver	INFO	geckodriver 0.20.1
+1526397169554	geckodriver	INFO	Listening on 127.0.0.1:12985
+1526397172590	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.63qbfXaHvNxp"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526397173572	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526397174974	Marionette	INFO	Listening on port 12993
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526397175734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+[Child 15688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15688, Chrome_ChildThread] WARNIN
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 9596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build[GPU 14104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/co
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+y from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526397689812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+[Parent 8680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14984, Chrome_ChildThread] WARNING: pipe error: [Parent 8680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19516, Chrome_ChildThread] WARNING: pi[Child 19616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s[Parent 8680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10[GPU 16900, Chrome_ChildThread] WARN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1526397997709	geckodriver	INFO	geckodriver 0.20.1
+1526397997720	geckodriver	INFO	Listening on 127.0.0.1:14375
+1526398000749	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.S2YNauWZfwdb"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526398001576	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526398002842	Marionette	INFO	Listening on port 14383
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526398003862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526434271360	geckodriver	INFO	geckodriver 0.20.1
+1526434271688	geckodriver	INFO	Listening on 127.0.0.1:1084
+1526434274770	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.qi56K8NeRbaD"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526434291844	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526434302370	Marionette	INFO	Listening on port 1127
+1526434302718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+1526434467418	geckodriver	INFO	geckodriver 0.20.1
+1526434467457	geckodriver	INFO	Listening on 127.0.0.1:2029
+1526434470436	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.Rm9wuFKY3QvB"
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526434472218	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526434474976	Marionette	INFO	Listening on port 2037
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526434475728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://eromang.zataz.com/wp-content/plugins/tablepress/js/jquery.datatables.min.js?ver=1.9, line 24: TypeError: i is undefined
+1526434728690	geckodriver	INFO	geckodriver 0.20.1
+1526434728715	geckodriver	INFO	Listening on 127.0.0.1:2692
+1526434731746	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\YOOY\\AppData\\Local\\Temp\\rust_mozprofile.LLYSWYGsOoVV"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526434733434	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+1526434735610	Marionette	INFO	Listening on port 2701
+1526434735934	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\YOOY\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
+JavaScript error: https://cdn.adjs.net/publisher.ad.min.js, line 1: TypeError: s is undefined
